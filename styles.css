@@ -1,0 +1,625 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box; }
+
+html, body {
+  height: 100%;
+  width: 100%; }
+
+body {
+  background-color: #111;
+  display: flex;
+  justify-content: center;
+  align-items: center; }
+
+.container {
+  display: flex;
+  width: 80%;
+  height: 250px;
+  align-items: flex-end; }
+  .container .bar {
+    flex: auto;
+    border: 1px solid rgba(255, 255, 255, 0.1); }
+    .container .bar:nth-child(1) {
+      background-color: #7b6048;
+      height: 15px;
+      animation-name: uyjukk3d8;
+      animation-timing-function: linear;
+      animation-iteration-count: infinite;
+      animation-duration: 1s;
+      animation-direction: alternate; }
+@keyframes uyjukk3d8 {
+  100% {
+    height: 63px;
+    background-color: #1ff199; } }
+    .container .bar:nth-child(2) {
+      background-color: #1e3a85;
+      height: 75px;
+      animation-name: uyjukk3de;
+      animation-timing-function: linear;
+      animation-iteration-count: infinite;
+      animation-duration: 1s;
+      animation-direction: alternate; }
+@keyframes uyjukk3de {
+  100% {
+    height: 15px;
+    background-color: #8f5c17; } }
+    .container .bar:nth-child(3) {
+      background-color: #143fce;
+      height: 194px;
+      animation-name: uyjukk3dn;
+      animation-timing-function: linear;
+      animation-iteration-count: infinite;
+      animation-duration: 1s;
+      animation-direction: alternate; }
+@keyframes uyjukk3dn {
+  100% {
+    height: 94px;
+    background-color: #e9f713; } }
+    .container .bar:nth-child(4) {
+      background-color: #53ed58;
+      height: 27px;
+      animation-name: uyjukk3dt;
+      animation-timing-function: linear;
+      animation-iteration-count: infinite;
+      animation-duration: 1s;
+      animation-direction: alternate; }
+@keyframes uyjukk3dt {
+  100% {
+    height: 87px;
+    background-color: #ed58f3; } }
+    .container .bar:nth-child(5) {
+      background-color: #8f43d4;
+      height: 227px;
+      animation-name: uyjukk3e2;
+      animation-timing-function: linear;
+      animation-iteration-count: infinite;
+      animation-duration: 1s;
+      animation-direction: alternate; }
+@keyframes uyjukk3e2 {
+  100% {
+    height: 20px;
+    background-color: #d5072e; } }
+    .container .bar:nth-child(6) {
+      background-color: #14d8e7;
+      height: 7px;
+      animation-name: uyjukk3ec;
+      animation-timing-function: linear;
+      animation-iteration-count: infinite;
+      animation-duration: 1s;
+      animation-direction: alternate; }
+@keyframes uyjukk3ec {
+  100% {
+    height: 23px;
+    background-color: #a68237; } }
+    .container .bar:nth-child(7) {
+      background-color: #425153;
+      height: 156px;
+      animation-name: uyjukk3ej;
+      animation-timing-function: linear;
+      animation-iteration-count: infinite;
+      animation-duration: 1s;
+      animation-direction: alternate; }
+@keyframes uyjukk3ej {
+  100% {
+    height: 119px;
+    background-color: #c9588f; } }
+    .container .bar:nth-child(8) {
+      background-color: #3b581a;
+      height: 146px;
+      animation-name: uyjukk3es;
+      animation-timing-function: linear;
+      animation-iteration-count: infinite;
+      animation-duration: 1s;
+      animation-direction: alternate; }
+@keyframes uyjukk3es {
+  100% {
+    height: 158px;
+    background-color: #845515; } }
+    .container .bar:nth-child(9) {
+      background-color: #74b6e8;
+      height: 236px;
+      animation-name: uyjukk3ez;
+      animation-timing-function: linear;
+      animation-iteration-count: infinite;
+      animation-duration: 1s;
+      animation-direction: alternate; }
+@keyframes uyjukk3ez {
+  100% {
+    height: 174px;
+    background-color: #1f7c9c; } }
+    .container .bar:nth-child(10) {
+      background-color: #d51535;
+      height: 25px;
+      animation-name: uyjukk3f3;
+      animation-timing-function: linear;
+      animation-iteration-count: infinite;
+      animation-duration: 1s;
+      animation-direction: alternate; }
+@keyframes uyjukk3f3 {
+  100% {
+    height: 81px;
+    background-color: #8ae230; } }
+    .container .bar:nth-child(11) {
+      background-color: #0c9a1a;
+      height: 191px;
+      animation-name: uyjukk3fc;
+      animation-timing-function: linear;
+      animation-iteration-count: infinite;
+      animation-duration: 1s;
+      animation-direction: alternate; }
+@keyframes uyjukk3fc {
+  100% {
+    height: 193px;
+    background-color: #4de06b; } }
+    .container .bar:nth-child(12) {
+      background-color: #857a59;
+      height: 109px;
+      animation-name: uyjukk3fm;
+      animation-timing-function: linear;
+      animation-iteration-count: infinite;
+      animation-duration: 1s;
+      animation-direction: alternate; }
+@keyframes uyjukk3fm {
+  100% {
+    height: 244px;
+    background-color: #fd23e1; } }
+    .container .bar:nth-child(13) {
+      background-color: #28ebc6;
+      height: 18px;
+      animation-name: uyjukk3fq;
+      animation-timing-function: linear;
+      animation-iteration-count: infinite;
+      animation-duration: 1s;
+      animation-direction: alternate; }
+@keyframes uyjukk3fq {
+  100% {
+    height: 228px;
+    background-color: #d6e059; } }
+    .container .bar:nth-child(14) {
+      background-color: #81b759;
+      height: 99px;
+      animation-name: uyjukk3fz;
+      animation-timing-function: linear;
+      animation-iteration-count: infinite;
+      animation-duration: 1s;
+      animation-direction: alternate; }
+@keyframes uyjukk3fz {
+  100% {
+    height: 111px;
+    background-color: #38e7ad; } }
+    .container .bar:nth-child(15) {
+      background-color: #76b614;
+      height: 63px;
+      animation-name: uyjukk3g8;
+      animation-timing-function: linear;
+      animation-iteration-count: infinite;
+      animation-duration: 1s;
+      animation-direction: alternate; }
+@keyframes uyjukk3g8 {
+  100% {
+    height: 61px;
+    background-color: #012f5d; } }
+    .container .bar:nth-child(16) {
+      background-color: #579ed6;
+      height: 146px;
+      animation-name: uyjukk3ge;
+      animation-timing-function: linear;
+      animation-iteration-count: infinite;
+      animation-duration: 1s;
+      animation-direction: alternate; }
+@keyframes uyjukk3ge {
+  100% {
+    height: 72px;
+    background-color: #e7ebfa; } }
+    .container .bar:nth-child(17) {
+      background-color: #7a529f;
+      height: 17px;
+      animation-name: uyjukk3gf;
+      animation-timing-function: linear;
+      animation-iteration-count: infinite;
+      animation-duration: 1s;
+      animation-direction: alternate; }
+@keyframes uyjukk3gf {
+  100% {
+    height: 105px;
+    background-color: #b70ccd; } }
+    .container .bar:nth-child(18) {
+      background-color: #37895d;
+      height: 69px;
+      animation-name: uyjukk3go;
+      animation-timing-function: linear;
+      animation-iteration-count: infinite;
+      animation-duration: 1s;
+      animation-direction: alternate; }
+@keyframes uyjukk3go {
+  100% {
+    height: 236px;
+    background-color: #b09c07; } }
+    .container .bar:nth-child(19) {
+      background-color: #aa6f2d;
+      height: 132px;
+      animation-name: uyjukk3gv;
+      animation-timing-function: linear;
+      animation-iteration-count: infinite;
+      animation-duration: 1s;
+      animation-direction: alternate; }
+@keyframes uyjukk3gv {
+  100% {
+    height: 169px;
+    background-color: #9aadc2; } }
+    .container .bar:nth-child(20) {
+      background-color: #883978;
+      height: 130px;
+      animation-name: uyjukk3gy;
+      animation-timing-function: linear;
+      animation-iteration-count: infinite;
+      animation-duration: 1s;
+      animation-direction: alternate; }
+@keyframes uyjukk3gy {
+  100% {
+    height: 156px;
+    background-color: #85a89f; } }
+    .container .bar:nth-child(21) {
+      background-color: #b95d1e;
+      height: 141px;
+      animation-name: uyjukk3gz;
+      animation-timing-function: linear;
+      animation-iteration-count: infinite;
+      animation-duration: 1s;
+      animation-direction: alternate; }
+@keyframes uyjukk3gz {
+  100% {
+    height: 70px;
+    background-color: #f6801b; } }
+    .container .bar:nth-child(22) {
+      background-color: #eaf217;
+      height: 234px;
+      animation-name: uyjukk3h5;
+      animation-timing-function: linear;
+      animation-iteration-count: infinite;
+      animation-duration: 1s;
+      animation-direction: alternate; }
+@keyframes uyjukk3h5 {
+  100% {
+    height: 93px;
+    background-color: #f38806; } }
+    .container .bar:nth-child(23) {
+      background-color: #e50950;
+      height: 14px;
+      animation-name: uyjukk3hb;
+      animation-timing-function: linear;
+      animation-iteration-count: infinite;
+      animation-duration: 1s;
+      animation-direction: alternate; }
+@keyframes uyjukk3hb {
+  100% {
+    height: 105px;
+    background-color: #5564b1; } }
+    .container .bar:nth-child(24) {
+      background-color: #cef947;
+      height: 91px;
+      animation-name: uyjukk3hh;
+      animation-timing-function: linear;
+      animation-iteration-count: infinite;
+      animation-duration: 1s;
+      animation-direction: alternate; }
+@keyframes uyjukk3hh {
+  100% {
+    height: 91px;
+    background-color: #02f3b1; } }
+    .container .bar:nth-child(25) {
+      background-color: #feb8d1;
+      height: 232px;
+      animation-name: uyjukk3hi;
+      animation-timing-function: linear;
+      animation-iteration-count: infinite;
+      animation-duration: 1s;
+      animation-direction: alternate; }
+@keyframes uyjukk3hi {
+  100% {
+    height: 172px;
+    background-color: #7cc7fb; } }
+    .container .bar:nth-child(26) {
+      background-color: #aec492;
+      height: 229px;
+      animation-name: uyjukk3hj;
+      animation-timing-function: linear;
+      animation-iteration-count: infinite;
+      animation-duration: 1s;
+      animation-direction: alternate; }
+@keyframes uyjukk3hj {
+  100% {
+    height: 249px;
+    background-color: #386363; } }
+    .container .bar:nth-child(27) {
+      background-color: #56a754;
+      height: 31px;
+      animation-name: uyjukk3hq;
+      animation-timing-function: linear;
+      animation-iteration-count: infinite;
+      animation-duration: 1s;
+      animation-direction: alternate; }
+@keyframes uyjukk3hq {
+  100% {
+    height: 90px;
+    background-color: #4b8271; } }
+    .container .bar:nth-child(28) {
+      background-color: #51d2f2;
+      height: 169px;
+      animation-name: uyjukk3hv;
+      animation-timing-function: linear;
+      animation-iteration-count: infinite;
+      animation-duration: 1s;
+      animation-direction: alternate; }
+@keyframes uyjukk3hv {
+  100% {
+    height: 106px;
+    background-color: #44279d; } }
+    .container .bar:nth-child(29) {
+      background-color: #1a480f;
+      height: 236px;
+      animation-name: uyjukk3i3;
+      animation-timing-function: linear;
+      animation-iteration-count: infinite;
+      animation-duration: 1s;
+      animation-direction: alternate; }
+@keyframes uyjukk3i3 {
+  100% {
+    height: 136px;
+    background-color: #bd49c6; } }
+    .container .bar:nth-child(30) {
+      background-color: #575d2b;
+      height: 207px;
+      animation-name: uyjukk3ib;
+      animation-timing-function: linear;
+      animation-iteration-count: infinite;
+      animation-duration: 1s;
+      animation-direction: alternate; }
+@keyframes uyjukk3ib {
+  100% {
+    height: 77px;
+    background-color: #ac6332; } }
+    .container .bar:nth-child(31) {
+      background-color: #2758ae;
+      height: 81px;
+      animation-name: uyjukk3ic;
+      animation-timing-function: linear;
+      animation-iteration-count: infinite;
+      animation-duration: 1s;
+      animation-direction: alternate; }
+@keyframes uyjukk3ic {
+  100% {
+    height: 51px;
+    background-color: #7717c3; } }
+    .container .bar:nth-child(32) {
+      background-color: #d7a40b;
+      height: 78px;
+      animation-name: uyjukk3ig;
+      animation-timing-function: linear;
+      animation-iteration-count: infinite;
+      animation-duration: 1s;
+      animation-direction: alternate; }
+@keyframes uyjukk3ig {
+  100% {
+    height: 100px;
+    background-color: #1a82a2; } }
+    .container .bar:nth-child(33) {
+      background-color: #bd281f;
+      height: 238px;
+      animation-name: uyjukk3ih;
+      animation-timing-function: linear;
+      animation-iteration-count: infinite;
+      animation-duration: 1s;
+      animation-direction: alternate; }
+@keyframes uyjukk3ih {
+  100% {
+    height: 164px;
+    background-color: #57e81d; } }
+    .container .bar:nth-child(34) {
+      background-color: #68e696;
+      height: 45px;
+      animation-name: uyjukk3iq;
+      animation-timing-function: linear;
+      animation-iteration-count: infinite;
+      animation-duration: 1s;
+      animation-direction: alternate; }
+@keyframes uyjukk3iq {
+  100% {
+    height: 109px;
+    background-color: #be2b3f; } }
+    .container .bar:nth-child(35) {
+      background-color: #5bae3c;
+      height: 234px;
+      animation-name: uyjukk3is;
+      animation-timing-function: linear;
+      animation-iteration-count: infinite;
+      animation-duration: 1s;
+      animation-direction: alternate; }
+@keyframes uyjukk3is {
+  100% {
+    height: 177px;
+    background-color: #3eebd1; } }
+    .container .bar:nth-child(36) {
+      background-color: #470989;
+      height: 232px;
+      animation-name: uyjukk3j0;
+      animation-timing-function: linear;
+      animation-iteration-count: infinite;
+      animation-duration: 1s;
+      animation-direction: alternate; }
+@keyframes uyjukk3j0 {
+  100% {
+    height: 167px;
+    background-color: #9a54ea; } }
+    .container .bar:nth-child(37) {
+      background-color: #e616e2;
+      height: 50px;
+      animation-name: uyjukk3j6;
+      animation-timing-function: linear;
+      animation-iteration-count: infinite;
+      animation-duration: 1s;
+      animation-direction: alternate; }
+@keyframes uyjukk3j6 {
+  100% {
+    height: 50px;
+    background-color: #fa7b09; } }
+    .container .bar:nth-child(38) {
+      background-color: #7436cc;
+      height: 156px;
+      animation-name: uyjukk3j8;
+      animation-timing-function: linear;
+      animation-iteration-count: infinite;
+      animation-duration: 1s;
+      animation-direction: alternate; }
+@keyframes uyjukk3j8 {
+  100% {
+    height: 17px;
+    background-color: #96bf79; } }
+    .container .bar:nth-child(39) {
+      background-color: #d9f698;
+      height: 140px;
+      animation-name: uyjukk3jb;
+      animation-timing-function: linear;
+      animation-iteration-count: infinite;
+      animation-duration: 1s;
+      animation-direction: alternate; }
+@keyframes uyjukk3jb {
+  100% {
+    height: 134px;
+    background-color: #8537dd; } }
+    .container .bar:nth-child(40) {
+      background-color: #eff266;
+      height: 131px;
+      animation-name: uyjukk3jd;
+      animation-timing-function: linear;
+      animation-iteration-count: infinite;
+      animation-duration: 1s;
+      animation-direction: alternate; }
+@keyframes uyjukk3jd {
+  100% {
+    height: 219px;
+    background-color: #a25c35; } }
+    .container .bar:nth-child(41) {
+      background-color: #42a968;
+      height: 5px;
+      animation-name: uyjukk3jn;
+      animation-timing-function: linear;
+      animation-iteration-count: infinite;
+      animation-duration: 1s;
+      animation-direction: alternate; }
+@keyframes uyjukk3jn {
+  100% {
+    height: 183px;
+    background-color: #77557a; } }
+    .container .bar:nth-child(42) {
+      background-color: #1173b8;
+      height: 26px;
+      animation-name: uyjukk3jt;
+      animation-timing-function: linear;
+      animation-iteration-count: infinite;
+      animation-duration: 1s;
+      animation-direction: alternate; }
+@keyframes uyjukk3jt {
+  100% {
+    height: 229px;
+    background-color: #2b7f2d; } }
+    .container .bar:nth-child(43) {
+      background-color: #0ee679;
+      height: 187px;
+      animation-name: uyjukk3jz;
+      animation-timing-function: linear;
+      animation-iteration-count: infinite;
+      animation-duration: 1s;
+      animation-direction: alternate; }
+@keyframes uyjukk3jz {
+  100% {
+    height: 100px;
+    background-color: #d145e0; } }
+    .container .bar:nth-child(44) {
+      background-color: #866f50;
+      height: 105px;
+      animation-name: uyjukk3k2;
+      animation-timing-function: linear;
+      animation-iteration-count: infinite;
+      animation-duration: 1s;
+      animation-direction: alternate; }
+@keyframes uyjukk3k2 {
+  100% {
+    height: 126px;
+    background-color: #f49ebd; } }
+    .container .bar:nth-child(45) {
+      background-color: #db5136;
+      height: 250px;
+      animation-name: uyjukk3kc;
+      animation-timing-function: linear;
+      animation-iteration-count: infinite;
+      animation-duration: 1s;
+      animation-direction: alternate; }
+@keyframes uyjukk3kc {
+  100% {
+    height: 114px;
+    background-color: #8ac336; } }
+    .container .bar:nth-child(46) {
+      background-color: #dfc61f;
+      height: 23px;
+      animation-name: uyjukk3kf;
+      animation-timing-function: linear;
+      animation-iteration-count: infinite;
+      animation-duration: 1s;
+      animation-direction: alternate; }
+@keyframes uyjukk3kf {
+  100% {
+    height: 214px;
+    background-color: #54345b; } }
+    .container .bar:nth-child(47) {
+      background-color: #b8f626;
+      height: 87px;
+      animation-name: uyjukk3ko;
+      animation-timing-function: linear;
+      animation-iteration-count: infinite;
+      animation-duration: 1s;
+      animation-direction: alternate; }
+@keyframes uyjukk3ko {
+  100% {
+    height: 76px;
+    background-color: #954021; } }
+    .container .bar:nth-child(48) {
+      background-color: #10c7e8;
+      height: 116px;
+      animation-name: uyjukk3ku;
+      animation-timing-function: linear;
+      animation-iteration-count: infinite;
+      animation-duration: 1s;
+      animation-direction: alternate; }
+@keyframes uyjukk3ku {
+  100% {
+    height: 240px;
+    background-color: #552b88; } }
+    .container .bar:nth-child(49) {
+      background-color: #91dbf0;
+      height: 165px;
+      animation-name: uyjukk3l4;
+      animation-timing-function: linear;
+      animation-iteration-count: infinite;
+      animation-duration: 1s;
+      animation-direction: alternate; }
+@keyframes uyjukk3l4 {
+  100% {
+    height: 127px;
+    background-color: #7cd65d; } }
+    .container .bar:nth-child(50) {
+      background-color: #1e3d55;
+      height: 221px;
+      animation-name: uyjukk3l5;
+      animation-timing-function: linear;
+      animation-iteration-count: infinite;
+      animation-duration: 1s;
+      animation-direction: alternate; }
+@keyframes uyjukk3l5 {
+  100% {
+    height: 159px;
+    background-color: #b14ab5; } }
+
+/*# sourceMappingURL=styles.css.map */

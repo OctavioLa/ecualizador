@@ -1,0 +1,51 @@
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+}
+
+html,body{
+  height: 100%;
+  width: 100%;
+}
+
+body{
+  background-color: #111;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container{
+    display:flex;
+    width:80%;
+    height:250px;
+    align-items:flex-end;
+    
+    .bar{
+        flex:auto;
+        border: 1px solid rgba(white,0.1);
+        @for $i from 1 through 50{
+            &:nth-child(#{$i}){
+                background-color: rgb(random(255), random(255), random(255));
+                height: random(250)*1px;
+                $unique-id: unique-id();
+                animation-name: $unique-id;
+                animation-timing-function: linear;
+                animation-iteration-count: infinite;
+                animation-duration: 1s;
+                animation-direction: alternate;
+                
+                @keyframes #{$unique-id}{
+                    100%{
+                        height:random(250)*1px;
+                        background-color: rgb(random(255), random(255), random(255));
+                    }
+                }
+            }
+            
+        }
+    
+}
+}
+
